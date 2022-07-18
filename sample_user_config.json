@@ -2,12 +2,19 @@
     "extra_cmdline": {
         "pid": "0x6387",
         "vid": "0x058f",
-        "sn": "D27YA8G8GJ0RA",
+        "sn": "1740LWN009986",
         "mac1": "00a0c9ee0862",
         "mac2": "00a0c9ee0863",
+        "DiskIdxMap":"0006",
+        "SataPortMap":"64",
+        "SasIdxMap":"0",
         "netif_num": "2"
     },
-    "synoinfo": {},
+    "synoinfo": {
+        "esataportcfg":"0xfff80",
+        "internalportcfg":"0x7f",
+        "maxdisks": "16"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
