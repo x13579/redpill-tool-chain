@@ -5,16 +5,9 @@
         "sn": "D27YA8G8GJ0RA",
         "mac1": "00a0c9ee0862",
         "mac2": "00a0c9ee0863",
-        "DiskIdxMap":"0006",
-        "SataPortMap":"64",
-        "SasIdxMap":"0",
         "netif_num": "2"
     },
-    "synoinfo": {
-        "esataportcfg":"0xfff80",
-        "internalportcfg":"0x7f",
-        "maxdisks": "16"
-    },
+    "synoinfo": {},
     "ramdisk_copy": {},
     "extensions": []
 }
