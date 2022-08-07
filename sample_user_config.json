@@ -11,8 +11,8 @@
         "netif_num": "2"
     },
     "synoinfo": {
-        "esataportcfg":"0xffe00",
-        "internalportcfg":"0x1ff",
+        "esataportcfg":"0xffc00",
+        "internalportcfg":"0x3ff",
         "maxdisks": "16"
     },
     "ramdisk_copy": {},
